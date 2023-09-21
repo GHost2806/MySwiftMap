@@ -15,6 +15,7 @@
 		D071D51C2AB9D41B00CC562C /* LocationsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D071D51B2AB9D41B00CC562C /* LocationsDataService.swift */; };
 		D071D51E2AB9D52D00CC562C /* LocationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D071D51D2AB9D52D00CC562C /* LocationsView.swift */; };
 		D071D5202AB9D85600CC562C /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D071D51F2AB9D85600CC562C /* LocationsViewModel.swift */; };
+		D0CA3EF22ABCA7400021AEF1 /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CA3EF12ABCA73F0021AEF1 /* LocationsListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		D071D51B2AB9D41B00CC562C /* LocationsDataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationsDataService.swift; sourceTree = "<group>"; };
 		D071D51D2AB9D52D00CC562C /* LocationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsView.swift; sourceTree = "<group>"; };
 		D071D51F2AB9D85600CC562C /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
+		D0CA3EF12ABCA73F0021AEF1 /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				D071D51D2AB9D52D00CC562C /* LocationsView.swift */,
+				D0CA3EF12ABCA73F0021AEF1 /* LocationsListView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D071D51C2AB9D41B00CC562C /* LocationsDataService.swift in Sources */,
+				D0CA3EF22ABCA7400021AEF1 /* LocationsListView.swift in Sources */,
 				D071D5202AB9D85600CC562C /* LocationsViewModel.swift in Sources */,
 				D071D5082AB9D0C700CC562C /* ContentView.swift in Sources */,
 				D071D51E2AB9D52D00CC562C /* LocationsView.swift in Sources */,
